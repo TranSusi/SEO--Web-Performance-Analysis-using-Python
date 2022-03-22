@@ -5,6 +5,8 @@
 
 3. What I should do to improve:
 
-a. Data-driven website optimization: Learn more knowledge about SEO for website marketing
-b. Visualisation: Learn more about how to use Matplotlib in Jupyter Notebook/ Kaggle
-c. Statistics: Learn more about descriptive statistic analysis including related visualisation
+a. Data-driven website optimization: Learn more knowledge about SEO for website marketing.
+
+b. Visualisation: Learn more about how to use Matplotlib in Jupyter Notebook/ Kaggle.
+
+c. Statistics: Learn more about descriptive statistic analysis including related visualisation.
